@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GloriousModelO.cpp
+C:\Users\Niels\Downloads\libusb-1.0.23\include\libusb-1.0\libusb.h(741,47): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Niels\Downloads\libusb-1.0.23\include\libusb-1.0\libusb.h(741,47): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Niels\Downloads\libusb-1.0.23\include\libusb-1.0\libusb.h(766,79): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Niels\Downloads\libusb-1.0.23\include\libusb-1.0\libusb.h(766,79): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Niels\Downloads\libusb-1.0.23\include\libusb-1.0\libusb.h(1259,71): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Niels\Downloads\libusb-1.0.23\include\libusb-1.0\libusb.h(1259,71): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+     Creating library C:\Users\Niels\source\repos\ConsoleApplication1\Debug\GloriousModelO.lib and object C:\Users\Niels\source\repos\ConsoleApplication1\Debug\GloriousModelO.exp
+  ConsoleApplication1.vcxproj -> C:\Users\Niels\source\repos\ConsoleApplication1\Debug\GloriousModelO.dll
